@@ -1,2 +1,2 @@
-# django-authentiction-refresh
+# django-authentication-refresh
  
